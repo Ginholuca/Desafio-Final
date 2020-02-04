@@ -59,7 +59,7 @@ yarn sequelize db:migrate
 yarn sequelize db:seed:all
 
 # start the app
-yarn dev
+yarn bob
 ````
 
 ## :memo: Licença
