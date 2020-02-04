@@ -14,7 +14,7 @@ Esse projeto faz parte do desafio final da 10ª edição do Bootcamp GoStack da 
 Ele se consiste na criação de uma aplicação para uma transportadora fictícia, nomeada como FastFeet.
 
 ### Etapas
-- [x] 1/4 Back-end: [GoStack - Desafio 02](https://github.com/Rocketseat/bootcamp-gostack-desafio-02)
+- 1/4 Back-end: [GoStack - Desafio 02](https://github.com/Rocketseat/bootcamp-gostack-desafio-02)
  
 
 ### **Sobre suas etapas**
@@ -33,17 +33,18 @@ Esse projeto está sendo desenvolvido utilizando as seguintes libs e tecnologias
 
 ### Back-end
 
-- [x] [Node.js](https://nodejs.org/en/)
-- [x] [Express](https://expressjs.com/)
-- [x] [Postgres](https://www.postgresql.org/)
-- [x] [Sequelize](https://sequelize.org/)
-- [x] [bcryptjs](https://www.npmjs.com/package/bcryptjs)
-- [x] [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
-- [x] [Nodemon](https://nodemon.io/)
-- [x] [Sucrase](https://github.com/alangpierce/sucrase)
-- [x] [Yup](https://github.com/jquense/yup)
-- [x] [ESLint](https://eslint.org/)
-- [x] [Prettier](https://prettier.io/)
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [Nodemon](https://nodemon.io/)
+- [Sucrase](https://github.com/alangpierce/sucrase)
+- [Docker](https://www.docker.com/)
+- [Postgres](https://www.postgresql.org/)
+- [Sequelize](https://sequelize.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [bcryptjs](https://www.npmjs.com/package/bcryptjs)
+- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
+- [Yup](https://github.com/jquense/yup)
 
 ## :heavy_check_mark: Instalação
 
@@ -66,3 +67,5 @@ yarn dev
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
+
+Feito por [Ginholuca](https://github.com/ginholuca/)
