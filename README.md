@@ -65,5 +65,5 @@ yarn dev
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-=====
+---
 Feito por [Ginholuca](https://github.com/ginholuca/)
