@@ -50,22 +50,20 @@ Esse projeto está sendo desenvolvido utilizando as seguintes libs e tecnologias
 
 ### Backend
 ```
-# install all dependencies
+# install dependencies
 yarn install
 
-# execute sequelize migrations and seeds
+# sequelize migrations and seeds
 yarn sequelize db:create --if-not-exists
 yarn sequelize db:migrate
 yarn sequelize db:seed:all
 
-# start the app
-yarn bob
+# start server
+yarn dev
 ````
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
+=====
 Feito por [Ginholuca](https://github.com/ginholuca/)
