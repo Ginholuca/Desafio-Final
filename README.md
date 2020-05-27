@@ -19,7 +19,7 @@ Ele se consiste na criação de uma aplicação para uma transportadora fictíci
 
 ### **Sobre suas etapas**
 
-<b>Etapa 1</b> - Foi proposto a criação de um projeto com funcionalidades básicas aprendidas no segundo módulo do Bootcamp, dentre elas:
+<b>Etapa 1 </b> - Foi proposto a criação de um projeto com funcionalidades básicas aprendidas no segundo módulo do Bootcamp, dentre elas:
 
 - Configuração do ambiente de desenvolvimento e padronização de código.
 - Desenvolvimento de uma API utilizando [Express](https://expressjs.com/),
